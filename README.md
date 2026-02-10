@@ -4,16 +4,7 @@ Advance network anlayzer with teligram bot
 
 
 Telegram open karo
-Search karo @userinfobot
 Start par tap karo
-Bot turant reply karega:
-Your ID
-Username
-Language
-Your ID = aapka Telegram Chat ID
+Bot turant reply karega
 
-@userinfobot ya @RawDataBot open karo
-Bot ko group ya channel me add karo
-Bot ko admin permission do
-Group me koi message bhejo
-
+mmesg
