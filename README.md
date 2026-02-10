@@ -7,4 +7,4 @@ Telegram open karo
 Start par tap karo
 Bot turant reply karega
 
-mmesg
+
